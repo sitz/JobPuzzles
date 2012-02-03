@@ -1,0 +1,8 @@
+<project>
+<property name="keyword" value="facebull"/>
+<javac srcdir="." destdir="."/>
+<!-- enlarge the maximum heap size -->
+<echo message="#!/bin/bash&#x0A;java -cp &quot;${0%/*}&quot; -Xmx1024M ${keyword} &quot;$1&quot;&#x0A;" file="${keyword}"/>
+<!-- not necessary, but convenient -->
+<chmod file="${keyword}" perm="a+x"/>
+</project>
