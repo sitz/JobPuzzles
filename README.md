@@ -14,7 +14,6 @@ List of Challenges
 - [Spotify](https://labs.spotify.com/puzzles/)
 - [Yodle](http://www.yodlecareers.com/puzzles/)
 - [OpenGarden](http://opengarden.com/jobs/)
-
 - [Dropbox](http://hr.gs/redbluebluered)
 - [Quora](http://www.quora.com/challenges/)
 - [Thumbtack](http://www.thumbtack.com/challenges)
