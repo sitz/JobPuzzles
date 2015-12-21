@@ -1,3 +1,4 @@
+*~
 *.o
 *.obj
 *.in
@@ -6,3 +7,5 @@
 *.exe
 *.pyc
 *.class
+.idea/
+.DS_Store
