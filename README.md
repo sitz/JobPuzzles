@@ -20,5 +20,5 @@ List of Challenges
 - [Pocket Gems](http://pocketgems.com/teams/engineering/)
 - [TripleByte](https://triplebyte.com/)
 - [CodeEval](https://www.codeeval.com/open_challenges/)
-- [HackerRank](https://www.hackerrank.com/contests)
+- [HackerRank](https://www.hackerrank.com/jobs)
 - [HackerEarth](https://www.hackerearth.com/challenges/)
